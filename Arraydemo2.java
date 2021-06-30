@@ -20,6 +20,7 @@ public class Arraydemo2 {
 			 public String toString()
 			 {
 				 return subject;
+				 // good work
 			 }
 		}
 	}
